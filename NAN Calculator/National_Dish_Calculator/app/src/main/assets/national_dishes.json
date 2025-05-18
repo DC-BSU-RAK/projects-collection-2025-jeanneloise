@@ -1,0 +1,459 @@
+{
+  "Japan": {
+    "breakfast": {
+      "name": "Tamago Kake Gohan",
+      "image": "tamago_kake_gohan",
+      "description": "A simple dish of raw egg mixed with hot rice and soy sauce."
+    },
+    "lunch": {
+      "name": "Ramen",
+      "image": "ramen",
+      "description": "A noodle soup with rich broth and toppings like egg and pork."
+    },
+    "dinner": {
+      "name": "Sushi",
+      "image": "sushi",
+      "description": "Vinegared rice served with raw or cooked fish and vegetables."
+    },
+    "drink": {
+      "name": "Green Tea",
+      "image": "green_tea",
+      "description": "Traditional Japanese tea with a fresh and grassy taste."
+    }
+  },
+
+
+  "Italy": {
+    "breakfast": {
+      "name": "Cornetto",
+      "image": "cornetto",
+      "description": "An Italian-style croissant often filled with jam or cream."
+    },
+    "lunch": {
+      "name": "Pasta",
+      "image": "pasta",
+      "description": "A classic Italian dish made with noodles and various sauces."
+    },
+    "dinner": {
+      "name": "Pizza Margherita",
+      "image": "pizza",
+      "description": "A simple pizza with tomato, mozzarella, and basil."
+    },
+    "drink": {
+      "name": "Espresso",
+      "image": "espresso",
+      "description": "Strong Italian coffee served in small portions."
+    }
+  },
+  "Mexico": {
+    "breakfast": {
+      "name": "Chilaquiles",
+      "image": "chilaquiles",
+      "description": "Tortilla chips simmered in red or green salsa, topped with cheese and eggs."
+    },
+    "lunch": {
+      "name": "Tacos",
+      "image": "tacos",
+      "description": "Corn or flour tortillas filled with meat, vegetables, and salsa."
+    },
+    "dinner": {
+      "name": "Mole Poblano",
+      "image": "mole_poblano",
+      "description": "Chicken served in a rich, dark sauce made from chocolate and chili peppers."
+    },
+    "drink": {
+      "name": "Horchata",
+      "image": "horchata",
+      "description": "A sweet rice-based drink flavored with cinnamon."
+    }
+  },
+  "India": {
+    "breakfast": {
+      "name": "Idli",
+      "image": "idli",
+      "description": "Steamed rice cakes served with sambar and chutney."
+    },
+    "lunch": {
+      "name": "Thali",
+      "image": "thali",
+      "description": "A platter with a variety of curries, rice, bread, and condiments."
+    },
+    "dinner": {
+      "name": "Butter Chicken",
+      "image": "butter_chicken",
+      "description": "Creamy tomato-based chicken curry served with naan or rice."
+    },
+    "drink": {
+      "name": "Masala Chai",
+      "image": "masala_chai",
+      "description": "Spiced tea brewed with milk and aromatic herbs."
+    }
+  },
+  "France": {
+    "breakfast": {
+      "name": "Croissant",
+      "image": "croissant",
+      "description": "A flaky, buttery pastry often eaten with coffee."
+    },
+    "lunch": {
+      "name": "Croque Monsieur",
+      "image": "croque_monsieur",
+      "description": "A grilled ham and cheese sandwich topped with béchamel sauce."
+    },
+    "dinner": {
+      "name": "Coq au Vin",
+      "image": "coq_au_vin",
+      "description": "Chicken slow-cooked in red wine with mushrooms and onions."
+    },
+    "drink": {
+      "name": "Red Wine",
+      "image": "red_wine",
+      "description": "A staple French drink made from fermented grapes."
+    }
+  },
+
+  "United States": {
+    "breakfast": {
+      "name": "Pancakes",
+      "image": "pancakes",
+      "description": "Fluffy flat cakes often served with syrup and butter."
+    },
+    "lunch": {
+      "name": "Cheeseburger",
+      "image": "cheeseburger",
+      "description": "A grilled beef patty topped with cheese and served in a bun."
+    },
+    "dinner": {
+      "name": "Fried Chicken",
+      "image": "fried_chicken",
+      "description": "Crispy, deep-fried chicken seasoned with spices."
+    },
+    "drink": {
+      "name": "Coca-Cola",
+      "image": "coca_cola",
+      "description": "A carbonated soft drink known worldwide."
+    }
+  },
+
+
+  "China": {
+    "breakfast": {
+      "name": "Congee",
+      "image": "congee",
+      "description": "A rice porridge often served with pickled vegetables or meat."
+    },
+    "lunch": {
+      "name": "Dumplings",
+      "image": "dumplings",
+      "description": "Stuffed dough filled with meat or vegetables, steamed or fried."
+    },
+    "dinner": {
+      "name": "Peking Duck",
+      "image": "peking_duck",
+      "description": "Roast duck with crispy skin, served with pancakes and hoisin sauce."
+    },
+    "drink": {
+      "name": "Jasmine Tea",
+      "image": "jasmine_tea",
+      "description": "Fragrant green tea infused with jasmine blossoms."
+    }
+  },
+
+
+  "United Kingdom": {
+    "breakfast": {
+      "name": "Full English Breakfast",
+      "image": "full_english_breakfast",
+      "description": "A hearty meal of eggs, bacon, sausages, beans, toast, and more."
+    },
+    "lunch": {
+      "name": "Fish and Chips",
+      "image": "fish_and_chips",
+      "description": "Battered fried fish served with fries and tartar sauce."
+    },
+    "dinner": {
+      "name": "Shepherd's Pie",
+      "image": "shepherds_pie",
+      "description": "A meat and vegetable pie topped with mashed potatoes."
+    },
+    "drink": {
+      "name": "Black Tea",
+      "image": "black_tea",
+      "description": "Traditional British tea often served with milk."
+    }
+  },
+
+
+  "Thailand": {
+    "breakfast": {
+      "name": "Jok",
+      "image": "jok",
+      "description": "Thai-style rice porridge with pork and egg."
+    },
+    "lunch": {
+      "name": "Pad Thai",
+      "image": "pad_thai",
+      "description": "Stir-fried rice noodles with shrimp, tofu, peanuts, and lime."
+    },
+    "dinner": {
+      "name": "Green Curry",
+      "image": "green_curry",
+      "description": "Spicy coconut milk curry with chicken, eggplant, and basil."
+    },
+    "drink": {
+      "name": "Thai Iced Tea",
+      "image": "thai_iced_tea",
+      "description": "Sweetened black tea with milk, served cold over ice."
+    }
+  },
+
+
+  "Brazil": {
+    "breakfast": {
+      "name": "Pão de Queijo",
+      "image": "pao_de_queijo",
+      "description": "Cheese bread rolls made from tapioca flour."
+    },
+    "lunch": {
+      "name": "Feijoada",
+      "image": "feijoada",
+      "description": "A stew of black beans with pork, traditionally served with rice and orange slices."
+    },
+    "dinner": {
+      "name": "Churrasco",
+      "image": "churrasco",
+      "description": "Brazilian barbecue featuring various grilled meats."
+    },
+    "drink": {
+      "name": "Caipirinha",
+      "image": "caipirinha",
+      "description": "A cocktail made with cachaça, sugar, and lime."
+    }
+  },
+
+  "Germany": {
+    "breakfast": {
+      "name": "Brötchen with Cold Cuts",
+      "image": "brotchen",
+      "description": "Crusty bread rolls served with butter, cheeses, and meats."
+    },
+    "lunch": {
+      "name": "Schnitzel",
+      "image": "schnitzel",
+      "description": "Breaded and fried meat cutlet, typically served with potatoes or salad."
+    },
+    "dinner": {
+      "name": "Bratwurst with Sauerkraut",
+      "image": "bratwurst_sauerkraut",
+      "description": "Grilled sausage served with fermented cabbage."
+    },
+    "drink": {
+      "name": "Beer",
+      "image": "german_beer",
+      "description": "Germany is famous for its lagers, especially during Oktoberfest."
+    }
+  },
+  "South Korea": {
+    "breakfast": {
+      "name": "Miyeokguk",
+      "image": "miyeokguk",
+      "description": "Seaweed soup, commonly eaten for breakfast or birthdays."
+    },
+    "lunch": {
+      "name": "Bibimbap",
+      "image": "bibimbap",
+      "description": "Mixed rice bowl with vegetables, beef, egg, and chili paste."
+    },
+    "dinner": {
+      "name": "Korean BBQ",
+      "image": "korean_bbq",
+      "description": "Grilled meats cooked at the table, served with banchan (side dishes)."
+    },
+    "drink": {
+      "name": "Soju",
+      "image": "soju",
+      "description": "A clear, distilled Korean spirit, often consumed with meals."
+    }
+  },
+  "Russia": {
+    "breakfast": {
+      "name": "Kasha",
+      "image": "kasha",
+      "description": "A porridge made from buckwheat or other grains, often with butter or milk."
+    },
+    "lunch": {
+      "name": "Borscht",
+      "image": "borscht",
+      "description": "A beetroot soup served hot or cold, often with sour cream."
+    },
+    "dinner": {
+      "name": "Beef Stroganoff",
+      "image": "beef_stroganoff",
+      "description": "Sautéed beef in a creamy sauce with mushrooms, usually served over noodles or rice."
+    },
+    "drink": {
+      "name": "Kvass",
+      "image": "kvass",
+      "description": "A fermented beverage made from rye bread with a low alcohol content."
+    }
+  },
+  "Spain": {
+    "breakfast": {
+      "name": "Tostada con Tomate",
+      "image": "tostada_con_tomate",
+      "description": "Toasted bread with grated tomato, olive oil, and salt."
+    },
+    "lunch": {
+      "name": "Paella",
+      "image": "paella",
+      "description": "A rice dish traditionally made with seafood, chicken, and vegetables."
+    },
+    "dinner": {
+      "name": "Tapas",
+      "image": "tapas",
+      "description": "A variety of small dishes such as olives, jamón, and calamari."
+    },
+    "drink": {
+      "name": "Sangria",
+      "image": "sangria",
+      "description": "A wine-based drink mixed with fruit, juice, and brandy."
+    }
+  },
+  "Turkey": {
+    "breakfast": {
+      "name": "Turkish Breakfast",
+      "image": "turkish_breakfast",
+      "description": "A spread of cheeses, olives, eggs, tomatoes, cucumbers, and bread."
+    },
+    "lunch": {
+      "name": "Köfte",
+      "image": "kofte",
+      "description": "Grilled meatballs made from minced meat and spices."
+    },
+    "dinner": {
+      "name": "Iskender Kebab",
+      "image": "iskender_kebab",
+      "description": "Sliced lamb over pita bread, topped with tomato sauce and yogurt."
+    },
+    "drink": {
+      "name": "Ayran",
+      "image": "ayran",
+      "description": "A cold yogurt-based beverage mixed with water and salt."
+    }
+  },
+
+  "Greece": {
+    "breakfast": {
+      "name": "Bougatsa",
+      "image": "bougatsa",
+      "description": "A sweet or savory pastry filled with custard, cheese, or minced meat."
+    },
+    "lunch": {
+      "name": "Souvlaki",
+      "image": "souvlaki",
+      "description": "Skewered grilled meat, often served in pita with vegetables and tzatziki."
+    },
+    "dinner": {
+      "name": "Moussaka",
+      "image": "moussaka",
+      "description": "A layered casserole of eggplant, ground meat, and béchamel sauce."
+    },
+    "drink": {
+      "name": "Ouzo",
+      "image": "ouzo",
+      "description": "An anise-flavored aperitif commonly consumed in Greece."
+    }
+  },
+  "Vietnam": {
+    "breakfast": {
+      "name": "Bánh Mì",
+      "image": "banh_mi",
+      "description": "A baguette sandwich filled with meats, vegetables, and pâté."
+    },
+    "lunch": {
+      "name": "Phở",
+      "image": "pho",
+      "description": "A fragrant noodle soup made with beef or chicken and herbs."
+    },
+    "dinner": {
+      "name": "Bún Chả",
+      "image": "bun_cha",
+      "description": "Grilled pork served with rice noodles, herbs, and dipping sauce."
+    },
+    "drink": {
+      "name": "Vietnamese Iced Coffee",
+      "image": "vietnamese_iced_coffee",
+      "description": "Strong drip coffee served over ice with sweetened condensed milk."
+    }
+  },
+  "Philippines": {
+    "breakfast": {
+      "name": "Tapsilog",
+      "image": "tapsilog",
+      "description": "A meal of beef tapa, garlic fried rice, and fried egg."
+    },
+    "lunch": {
+      "name": "Adobo",
+      "image": "adobo",
+      "description": "Meat stewed in vinegar, soy sauce, garlic, and spices."
+    },
+    "dinner": {
+      "name": "Kare-Kare",
+      "image": "kare_kare",
+      "description": "A peanut-based oxtail stew served with vegetables and bagoong."
+    },
+    "drink": {
+      "name": "Buko Juice",
+      "image": "buko_juice",
+      "description": "Refreshing coconut water often served straight from the fruit."
+    }
+  },
+  "Morocco": {
+    "breakfast": {
+      "name": "Msemen",
+      "image": "msemen",
+      "description": "A pan-fried flatbread served with honey or jam."
+    },
+    "lunch": {
+      "name": "Couscous",
+      "image": "couscous",
+      "description": "Steamed semolina served with vegetables and meat, especially on Fridays."
+    },
+    "dinner": {
+      "name": "Tagine",
+      "image": "tagine",
+      "description": "A slow-cooked stew made with meat, vegetables, and aromatic spices."
+    },
+    "drink": {
+      "name": "Mint Tea",
+      "image": "mint_tea",
+      "description": "Green tea brewed with fresh mint leaves and plenty of sugar."
+    }
+  },
+  "Australia": {
+    "breakfast": {
+      "name": "Avocado Toast",
+      "image": "avocado_toast",
+      "description": "Smashed avocado on toasted bread, often topped with eggs or feta."
+    },
+    "lunch": {
+      "name": "Meat Pie",
+      "image": "meat_pie",
+      "description": "A flaky pastry filled with minced meat and gravy."
+    },
+    "dinner": {
+      "name": "Grilled Barramundi",
+      "image": "barramundi",
+      "description": "A native Australian fish, often served grilled with lemon and herbs."
+    },
+    "drink": {
+      "name": "Flat White",
+      "image": "flat_white",
+      "description": "A creamy espresso-based coffee drink with steamed milk."
+    }
+  }
+}
+
+
+
+

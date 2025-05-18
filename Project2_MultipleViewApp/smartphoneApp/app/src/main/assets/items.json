@@ -1,0 +1,410 @@
+{
+  "Items": [
+    {
+      "categoryId": "1",
+      "title": "Caramel Milk Tea",
+      "description": "A silky blend of rich black tea and smooth milk, sweetened with luscious caramel syrup. A perfect balance of creamy and sweet.",
+      "extra": "Black tea, milk, caramel syrup, tapioca pearls",
+      "picUrl": ["a_caramel_milktea"],
+      "price": 4.5
+    },
+    {
+      "categoryId": "1",
+      "title": "Fresh Taro Milk Tea",
+      "description": "Made from real taro, this milk tea delivers a nutty, sweet flavor with a creamy finish. A beloved classic with a natural twist.",
+      "extra": "Fresh taro, milk, sugar, tapioca pearls",
+      "picUrl": ["a_fresh_taro_milktea"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "1",
+      "title": "Japanese Matcha Milk Tea with Red Beans",
+      "description": "Earthy matcha and sweet red beans unite in this uniquely textured drink. A harmonious fusion of Japan’s finest flavors.",
+      "extra": "Matcha, milk, red beans, sugar",
+      "picUrl": ["a_japanese_matcha_milk_tea_w_red_beans"],
+      "price": 5.8
+    },
+    {
+      "categoryId": "1",
+      "title": "Japanese Matcha Milk Tea",
+      "description": "A smooth and revitalizing drink made from premium Japanese matcha and creamy milk. Subtly sweet and naturally energizing.",
+      "extra": "Matcha powder, milk, sugar (optional)",
+      "picUrl": ["a_japanese_matcha_milktea"],
+      "price": 5.2
+    },
+    {
+      "categoryId": "1",
+      "title": "Jasmine Milk Tea",
+      "description": "Fragrant jasmine green tea paired with creamy milk creates a refreshing and floral experience in every sip.",
+      "extra": "Jasmine green tea, milk, sugar, tapioca pearls",
+      "picUrl": ["a_jasmine_milktea"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "1",
+      "title": "Milk Tea",
+      "description": "The classic staple — rich black tea blended with creamy milk and chewy tapioca pearls. Simple, comforting, and timeless.",
+      "extra": "Black tea, milk, sugar, tapioca pearls",
+      "picUrl": ["a_milk_tea"],
+      "price": 4.0
+    },
+    {
+      "categoryId": "1",
+      "title": "Panda Milk Tea",
+      "description": "Named for its dual toppings of black and white pearls, this fun twist on milk tea is both playful and satisfying.",
+      "extra": "Black tea, milk, black & white pearls",
+      "picUrl": ["a_panda_milktea"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "1",
+      "title": "Pearl Milk Tea",
+      "description": "A fan-favorite, this version of milk tea includes chewy tapioca pearls that add texture and fun to every sip.",
+      "extra": "Black tea, milk, tapioca pearls, sugar",
+      "picUrl": ["a_pearl_milktea"],
+      "price": 4.5
+    },
+    {
+      "categoryId": "1",
+      "title": "Roasted Milk Tea",
+      "description": "Infused with roasted oolong or black tea, this milk tea offers a toasty flavor profile and deep aroma.",
+      "extra": "Roasted tea, milk, sugar, pearls (optional)",
+      "picUrl": ["a_roasted_milktea"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "1",
+      "title": "Taro Milk Tea with Sago",
+      "description": "Classic taro flavor meets chewy sago pearls in this creamy and purple-hued delight.",
+      "extra": "Taro powder, milk, sago pearls, sugar",
+      "picUrl": ["a_taro_milktea_w_sago"],
+      "price": 5.2
+    },
+    {
+      "categoryId": "1",
+      "title": "Taro Milk Tea",
+      "description": "A velvety purple drink made with taro for its nutty sweetness, perfect for fans of unique and colorful flavors.",
+      "extra": "Taro powder, milk, tapioca pearls",
+      "picUrl": ["a_taro_milktea"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "1",
+      "title": "Three Guys Milk Tea",
+      "description": "Packed with boba, pudding, and grass jelly, this milk tea is a trio of textures in every creamy sip.",
+      "extra": "Milk tea, tapioca pearls, pudding, grass jelly",
+      "picUrl": ["a_three_guys_milktea"],
+      "price": 5.5
+    },
+    {
+      "categoryId": "1",
+      "title": "Three Q Milk Tea",
+      "description": "A chewy trifecta of toppings—boba, lychee jelly, and pudding—complement this creamy milk tea base.",
+      "extra": "Milk tea, tapioca pearls, pudding, lychee jelly",
+      "picUrl": ["a_threeq_milktea"],
+      "price": 5.5
+    },
+    {
+      "categoryId": "1",
+      "title": "Two Ladies Milk Tea",
+      "description": "A blend of boba and pudding brings delightful chewiness and smooth richness to this classic drink.",
+      "extra": "Milk tea, tapioca pearls, pudding",
+      "picUrl": ["a_two_ladies_milktea"],
+      "price": 5.2
+    },
+
+    {
+      "categoryId": "2",
+      "title": "Brown Sugar Pearl Latte",
+      "description": "Rich brown sugar syrup blended with creamy milk and chewy tapioca pearls.",
+      "extra": "Brown sugar syrup, fresh milk, tapioca pearls, ice",
+      "picUrl": ["aaa_brownsugar_pearl_latte"],
+      "price": 4.5
+    },
+    {
+      "categoryId": "2",
+      "title": "Fresh Taro with Milk",
+      "description": "Earthy fresh taro chunks mixed with smooth milk for a naturally sweet treat.",
+      "extra": "Fresh taro, milk, sweetener, ice",
+      "picUrl": ["aaa_fresh_taro_w_milk"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "2",
+      "title": "Matcha Latte",
+      "description": "A creamy blend of premium Japanese matcha and fresh milk, lightly sweetened.",
+      "extra": "Matcha powder, milk, sweetener, ice",
+      "picUrl": ["aaa_matcha_latte"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "2",
+      "title": "QQ Fresh Taro with Milk",
+      "description": "Creamy milk with fresh taro, chewy pearls, and coconut jelly for a QQ experience.",
+      "extra": "Fresh taro, milk, tapioca pearls, coconut jelly, sweetener, ice",
+      "picUrl": ["aaa_qq_fresh_taro_w_milk"],
+      "price": 5.5
+    },
+    {
+      "categoryId": "2",
+      "title": "Strawberry Latte",
+      "description": "Sweet strawberry puree swirled with milk for a fruity and refreshing drink.",
+      "extra": "Strawberry puree, milk, sweetener, ice",
+      "picUrl": ["aaa_strawberry_latte"],
+      "price": 4.7
+    },
+    {
+      "categoryId": "2",
+      "title": "Three Guys with Milk",
+      "description": "A signature trio of pearls, pudding, and grass jelly served with fresh milk.",
+      "extra": "Pearls, pudding, grass jelly, milk, brown sugar, ice",
+      "picUrl": ["aaa_threeguys_w_milk"],
+      "price": 5.2
+    },
+
+    {
+      "categoryId": "3",
+      "title": "Black Tea",
+      "description": "A robust and aromatic classic, this freshly brewed black tea offers deep, malty flavors with a subtle hint of bitterness. A timeless pick for tea lovers.",
+      "extra": "Black tea leaves, filtered water, optional sweetener",
+      "picUrl": ["aaaa_black_tea"],
+      "price": 3.0
+    },
+    {
+      "categoryId": "3",
+      "title": "Green Tea",
+      "description": "Light, refreshing, and packed with antioxidants, our green tea has a mild grassy flavor with a clean, crisp finish. Great hot or iced.",
+      "extra": "Green tea leaves, filtered water, optional sweetener",
+      "picUrl": ["aaaa_green_tea"],
+      "price": 3.0
+    },
+    {
+      "categoryId": "3",
+      "title": "Roasted Tea (Hōjicha)",
+      "description": "This aromatic roasted tea delivers a nutty, earthy flavor with a hint of caramel. Naturally low in caffeine and perfect for a relaxing sip.",
+      "extra": "Roasted green tea leaves, filtered water",
+      "picUrl": ["aaaa_roasted_tea"],
+      "price": 3.2
+    },
+
+    {
+      "categoryId": "4",
+      "title": "Black Tea Macchiato",
+      "description": "A bold black tea topped with a creamy, slightly salty cheese foam for a delightful contrast of flavors. Rich, smooth, and slightly savory.",
+      "extra": "Black tea, cheese cream foam, sweetener, ice",
+      "picUrl": ["bb_blacktea_mac"],
+      "price": 4.5
+    },
+    {
+      "categoryId": "4",
+      "title": "Choco Macchiato",
+      "description": "Decadent chocolate milk tea paired with a luscious cheese foam topping, creating a rich dessert-like drink experience.",
+      "extra": "Chocolate milk tea, cheese cream foam, sweetener, ice",
+      "picUrl": ["bb_choco_mac"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "4",
+      "title": "Green Tea Macchiato",
+      "description": "A refreshing green tea base layered with a smooth and savory cheese foam, delivering a well-balanced and creamy sip.",
+      "extra": "Green tea, cheese cream foam, sweetener, ice",
+      "picUrl": ["bb_greentea_mac"],
+      "price": 4.5
+    },
+    {
+      "categoryId": "4",
+      "title": "Matcha Macchiato",
+      "description": "Premium matcha tea blended with milk and topped with a rich cheese foam for an earthy and indulgent treat.",
+      "extra": "Matcha, milk, cheese cream foam, sweetener, ice",
+      "picUrl": ["bb_matcha_mac"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "4",
+      "title": "Strawberry Black Tea Macchiato",
+      "description": "Sweet strawberry black tea balanced with creamy cheese foam, offering fruity and savory layers in every sip.",
+      "extra": "Strawberry syrup, black tea, cheese cream foam, sweetener, ice",
+      "picUrl": ["bb_strawberry_blacktea_mac"],
+      "price": 4.8
+    },
+
+    {
+      "categoryId": "5",
+      "title": "Bubble Gaga",
+      "description": "A refreshing fruit tea blend with passion fruit, herbal jelly, and chewy tapioca pearls. A unique combo of textures and tropical flavors.",
+      "extra": "Passion fruit tea, herbal jelly, pearls, sweetener, ice",
+      "picUrl": ["b_bubble_gaga"],
+      "price": 5.5
+    },
+    {
+      "categoryId": "5",
+      "title": "Fresh Grapefruit Green Tea",
+      "description": "A bright and citrusy green tea infused with freshly squeezed grapefruit juice, perfect for a refreshing pick-me-up.",
+      "extra": "Green tea, fresh grapefruit juice, sweetener, ice",
+      "picUrl": ["b_fresh_grapefruit_greentea"],
+      "price": 5.2
+    },
+    {
+      "categoryId": "5",
+      "title": "Fresh Grapefruit Orange Mixed Juice",
+      "description": "A zesty blend of grapefruit and orange juice, this juicy mix is packed with vitamin C and natural sweetness.",
+      "extra": "Fresh grapefruit juice, orange juice, sweetener, ice",
+      "picUrl": ["b_fresh_grapefruit_orange_mixed_juice"],
+      "price": 5.5
+    },
+    {
+      "categoryId": "5",
+      "title": "Fresh Lemon Black Tea",
+      "description": "A tangy and bold black tea drink with the kick of freshly squeezed lemon juice. Great for citrus lovers.",
+      "extra": "Black tea, fresh lemon juice, sweetener, ice",
+      "picUrl": ["b_fresh_lemon_blacktea"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "5",
+      "title": "Fresh Lemon Green Tea",
+      "description": "Light and zesty, this green tea is enhanced with the brightness of lemon for a cooling and revitalizing sip.",
+      "extra": "Green tea, fresh lemon juice, sweetener, ice",
+      "picUrl": ["b_fresh_lemon_greentea"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "5",
+      "title": "Fresh Mango Green Tea",
+      "description": "A fruity infusion of mango and green tea, this drink is sweet, tropical, and perfect for hot days.",
+      "extra": "Green tea, mango syrup or fresh mango, sweetener, ice",
+      "picUrl": ["b_fresh_mango_greentea"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "5",
+      "title": "Fresh Orange Green Tea",
+      "description": "A juicy and tangy green tea with fresh orange slices and juice, bringing sunshine in every cup.",
+      "extra": "Green tea, orange juice, orange slices, sweetener, ice",
+      "picUrl": ["b_fresh_orange_greentea"],
+      "price": 5.2
+    },
+    {
+      "categoryId": "5",
+      "title": "Lemon King",
+      "description": "An intense lemon tea with lemon slices and pulp for a sour punch. Tart, bold, and unforgettable.",
+      "extra": "Black tea, lemon slices, lemon pulp, sweetener, ice",
+      "picUrl": ["b_lemon_king"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "5",
+      "title": "Lychee Green Tea",
+      "description": "A fragrant and sweet tea infused with juicy lychee flavor. Light, floral, and delightfully refreshing.",
+      "extra": "Green tea, lychee syrup, sweetener, ice",
+      "picUrl": ["b_lychee_greentea"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "5",
+      "title": "Mango Green Tea",
+      "description": "A smooth and fruity tea made with green tea and mango essence. A go-to tropical thirst-quencher.",
+      "extra": "Green tea, mango syrup, sweetener, ice",
+      "picUrl": ["b_mango_greentea"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "5",
+      "title": "Mango Pomelo",
+      "description": "This luscious fruit drink features sweet mango and pomelo pulp, offering a rich and tangy mouthfeel.",
+      "extra": "Mango juice, pomelo pulp, coconut milk, sweetener, ice",
+      "picUrl": ["b_mango_pomelo"],
+      "price": 5.5
+    },
+    {
+      "categoryId": "5",
+      "title": "Passion Fruit Black Tea",
+      "description": "A fruity explosion of passion fruit blended with bold black tea, offering a tropical twist with a caffeine kick.",
+      "extra": "Black tea, passion fruit syrup, seeds, sweetener, ice",
+      "picUrl": ["b_passion_fruit_blacktea"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "5",
+      "title": "Passion Fruit Green Tea",
+      "description": "A lighter, greener take on a tropical favorite. Tart passion fruit and smooth green tea come together beautifully.",
+      "extra": "Green tea, passion fruit syrup, sweetener, ice",
+      "picUrl": ["b_passion_fruit_greentea"],
+      "price": 5.0
+    },
+    {
+      "categoryId": "5",
+      "title": "Passionfruit Lemon Tea w/ Honey Jelly",
+      "description": "This lively fruit tea combines the zing of lemon, sweetness of passion fruit, and chewiness of honey jelly.",
+      "extra": "Black tea, lemon juice, passion fruit syrup, honey jelly, sweetener, ice",
+      "picUrl": ["b_passionfruit_lemontea_w_honeyjelly"],
+      "price": 5.5
+    },
+    {
+      "categoryId": "5",
+      "title": "Peach Iced Tea",
+      "description": "A cool and refreshing peach-flavored iced tea that balances sweetness and subtle floral notes.",
+      "extra": "Black tea, peach syrup, sweetener, ice",
+      "picUrl": ["b_peach_icetea"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "5",
+      "title": "Strawberry Black Tea",
+      "description": "Juicy strawberry flavor infused into black tea creates a sweet and slightly tart refreshment.",
+      "extra": "Black tea, strawberry syrup, sweetener, ice",
+      "picUrl": ["b_strawberry_blacktea"],
+      "price": 5.0
+    },
+
+    {
+      "categoryId": "6",
+      "title": "Caffè Latte",
+      "description": "Smooth espresso blended with steamed milk for a classic, mellow coffee experience.",
+      "extra": "Espresso, steamed milk, milk foam",
+      "picUrl": ["aa_caffe_latte"],
+      "price": 4.0
+    },
+    {
+      "categoryId": "6",
+      "title": "Caffè Mocha",
+      "description": "A rich blend of espresso, chocolate, and steamed milk topped with whipped cream.",
+      "extra": "Espresso, chocolate syrup, steamed milk, whipped cream",
+      "picUrl": ["aa_caffe_mocha"],
+      "price": 4.5
+    },
+    {
+      "categoryId": "6",
+      "title": "Caffè Americano",
+      "description": "A bold and smooth shot of espresso diluted with hot water for a clean finish.",
+      "extra": "Espresso, hot water",
+      "picUrl": ["aa_caffee_americano"],
+      "price": 3.5
+    },
+    {
+      "categoryId": "6",
+      "title": "Caramel Macchiato",
+      "description": "Espresso layered with velvety steamed milk and rich caramel drizzle.",
+      "extra": "Espresso, steamed milk, vanilla syrup, caramel drizzle",
+      "picUrl": ["aa_caramel_macchiato"],
+      "price": 4.8
+    },
+    {
+      "categoryId": "6",
+      "title": "Hot Double Shot",
+      "description": "Intense and bold, this double espresso shot is perfect for a strong caffeine boost.",
+      "extra": "Double espresso shot",
+      "picUrl": ["aa_hot_double_shot"],
+      "price": 3.0
+    },
+    {
+      "categoryId": "6",
+      "title": "White Chocolate Mocha",
+      "description": "Creamy white chocolate mixed with espresso and steamed milk, topped with whipped cream.",
+      "extra": "Espresso, white chocolate sauce, steamed milk, whipped cream",
+      "picUrl": ["aa_white_choco_mocha"],
+      "price": 4.9
+    }
+
+  ]
+}

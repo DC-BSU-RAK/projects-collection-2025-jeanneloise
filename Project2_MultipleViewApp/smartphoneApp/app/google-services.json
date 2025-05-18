@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481655723239",
+    "project_id": "smartphoneapp-51424",
+    "storage_bucket": "smartphoneapp-51424.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481655723239:android:7b3dfef51a4a49d9953e42",
+        "android_client_info": {
+          "package_name": "com.example.smartphoneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pfXD5-oHTieQcS17LYdw_n9hcga4A38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481655723239:android:7441d7a25653e8ba953e42",
+        "android_client_info": {
+          "package_name": "com.togonon.smartphonApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pfXD5-oHTieQcS17LYdw_n9hcga4A38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
